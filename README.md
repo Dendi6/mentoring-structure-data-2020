@@ -49,6 +49,7 @@ Berikut gambaran dari implementasi SelectionSort:
 ```
 
 ## 💒 Refrensi Materi
+<a href="https://drive.google.com/file/d/16jgzkEWazI1Zod_K5zbWlBs9r1ZJNpuf/view?usp=sharing">Panduan</a><br>
 <a href="https://socs.binus.ac.id/2019/12/26/selection-sort/">https://socs.binus.ac.id/2019/12/26/selection-sort/<a>
 
 ---
