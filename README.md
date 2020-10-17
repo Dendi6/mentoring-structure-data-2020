@@ -27,6 +27,7 @@ Membuat tampilan segitiga sama sisi, dimana setiap kenaikan baris menandakan, ba
   inputan => int //not null
   
   output =>
+  
   hello, world !
        o
       ooo
