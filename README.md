@@ -45,7 +45,7 @@ Berikut gambaran dari implementasi Bubble Sort:
 ```
 
 ## 💒 Refrensi Materi
-<a href="https://drive.google.com/file/d/1657HyU-BrGryEeastGqjnF7UOMlnsyjU/view?usp=sharing"> Panduan</a>
+<a href="https://drive.google.com/file/d/1657HyU-BrGryEeastGqjnF7UOMlnsyjU/view?usp=sharing" target="_blank"> Panduan</a><br>
 <a href="https://socs.binus.ac.id/2019/12/26/bubble-sort/">https://socs.binus.ac.id/2019/12/26/bubble-sort/<a>
 
 ---
