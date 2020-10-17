@@ -48,5 +48,8 @@ Berikut gambaran dari implementasi SelectionSort:
 (20, 30, 40, 50, 60, 70)
 ```
 
+## 💒 Refrensi Materi
+<a href="https://socs.binus.ac.id/2019/12/26/selection-sort/">https://socs.binus.ac.id/2019/12/26/selection-sort/<a>
+
 ---
 keep calm and say bismillah
