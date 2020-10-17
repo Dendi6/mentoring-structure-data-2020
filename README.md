@@ -6,3 +6,6 @@ Tema yang di bahas
 1. Bubble Sort Algoritma ```Branch Bubble sort```
 2. Selection Sort Algoritma ```Branch selection sort```
 3. Insertion Sort Algoritma ```Branch Insertion sort```
+
+latihan yang tersedia
+1. latihan 1 ```Branch Latihan```
