@@ -33,3 +33,5 @@ Membuat tampilan segitiga sama sisi, dimana setiap kenaikan baris menandakan, ba
      ooooo
     ooooooo
 ```
+---
+keep calm and say bismillah
