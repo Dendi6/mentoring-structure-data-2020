@@ -1,7 +1,7 @@
 ## ⛵ Mentoring_SD_2020
 Mentoring Struktur Data 2020. © Universitas Maritim Raja Ali Haji.
 
-## 🧧 Penjelasan
+## Penjelasan
 Bubble sort merupakan sebuah teknik pengurutan data dengan cara menukar dua data yang bersebelahan jika urutan dari data tersebut salah. 
 Algorithma ini dapat mengurutkan data dari besar ke kecil (Ascending) dan kecil ke besar (Descending). 
 Algoritma ini tidak cocok untuk set data dengan jumlah besar karena kompleksitas dari algorithma ini adalah Ο() di mana n adalah jumlah item.
@@ -44,7 +44,7 @@ Berikut gambaran dari implementasi Bubble Sort:
 (20,30,40,50,60,70)
 ```
 
-## 💒 Refrensi Materi
+## Refrensi Materi
 <a href="https://drive.google.com/file/d/1657HyU-BrGryEeastGqjnF7UOMlnsyjU/view?usp=sharing" target="_blank"> Panduan</a><br>
 <a href="https://socs.binus.ac.id/2019/12/26/bubble-sort/">https://socs.binus.ac.id/2019/12/26/bubble-sort/<a>
 
