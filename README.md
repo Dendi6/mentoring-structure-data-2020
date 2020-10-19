@@ -5,7 +5,7 @@ Mentoring Struktur Data 2020. © Universitas Maritim Raja Ali Haji.
 source code terdapat pada folder ```src/```<br>
 
 1. soal pertama<br>
-membuat tampilan kubus, dimana kolom merupakan hasil baris x 2.
+membuat tampilan kubus, dimana kolom = jumlah baris x 2.
 ```
   inputan => int //not null
   
@@ -22,7 +22,7 @@ membuat tampilan kubus, dimana kolom merupakan hasil baris x 2.
 masih belum bisa di pecahkan
 
 3. Soal ketiga<br>
-Membuat tampilan segitiga sama sisi, dimana setiap kenaikan baris menandakan, baris sebelumnya + 2;
+Membuat tampilan segitiga sama sisi, dimana setiap kenaikan baris = baris sebelumnya + 2;
 ```
   inputan => int //not null
   
