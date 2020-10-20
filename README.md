@@ -8,4 +8,4 @@ Tema yang di bahas
 3. Insertion Sort Algoritma <a href="https://github.com/Dendi6/Mentoring_SD_2020/blob/insertion-sort">```Branch Insertion sort```</a>
 
 latihan yang tersedia
-1. latihan 1 ```Branch Latihan```
+1. latihan 1 <a href="https://github.com/Dendi6/Mentoring_SD_2020/tree/latihan">```Branch Latihan```</a>
