@@ -5,7 +5,7 @@ Mentoring Struktur Data 2020. © Universitas Maritim Raja Ali Haji.
 Tema yang di bahas
 1. Bubble Sort Algoritma <a href="https://github.com/Dendi6/Mentoring_SD_2020/tree/bubble-sort">```Branch Bubble sort```</a>
 2. Selection Sort Algoritma <a href="https://github.com/Dendi6/Mentoring_SD_2020/tree/selection-sort">```Branch selection sort```</a>
-3. Insertion Sort Algoritma ```Branch Insertion sort```
+3. Insertion Sort Algoritma <a href="https://github.com/Dendi6/Mentoring_SD_2020/blob/insertion-sort">```Branch Insertion sort```</a>
 
 latihan yang tersedia
 1. latihan 1 ```Branch Latihan```
