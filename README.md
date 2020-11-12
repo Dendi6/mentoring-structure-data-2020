@@ -84,7 +84,7 @@ source code dapat di akses di folder `src/`<br>
         pegawai[i].pajak = ((pegawai[i].gaji_kotor/100)*5);
       }
    ```
-5. Lankukan penguranangan, nilai dari gaji_kotor dan pajak, yang akan menghasilkan niilai gaji_bersih.
+5. Lakukan penguranangan, nilai dari gaji_kotor dan pajak, yang akan menghasilkan nilai gaji_bersih.
 6. Lakukan perulangan kembali dengan tujuan menampilkan.
 7. Santuy jika ada error, jangan lupa tanya mentor :v
 
